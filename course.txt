@@ -1,3 +1,4 @@
 aws cloud architect
 Devops
 datascience and machine learning
+python full stack
